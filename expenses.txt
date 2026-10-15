@@ -1,0 +1,5 @@
+Groceries 220
+Rent 1200
+Utilities 150
+Entertainment 75
+Transport 90

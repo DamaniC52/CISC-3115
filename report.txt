@@ -1,0 +1,14 @@
+Expense Report:
+------------------------------
+Rent: $1200
+Groceries: $220
+Utilities: $150
+Transport: $90
+Entertainment: $75
+
+Total Expenses: $1735
+Highest Expense: Rent ($1200)
+Lowest Expense: Entertainment ($75)
+
+Budget: $9000
+Status: Under budget by $7265
